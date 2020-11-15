@@ -1,0 +1,6 @@
+﻿<wpf:Window  xmlns:wpf="http://schemas.microsoft.com/netfx/2009/xaml/presentation"
+         Title="Calendar | ByDenisRafi" Height="400" Width="360">
+    <wpf:Viewbox Stretch="Fill" StretchDirection="UpOnly">
+        <wpf:Calendar />
+    </wpf:Viewbox>
+</wpf:Window>
